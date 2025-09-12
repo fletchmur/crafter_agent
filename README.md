@@ -45,6 +45,9 @@ rollout of 100 episodes with a max episode length of 1024 frames. The model then
 sampled the full rollout 5 times to perform gradient updates.
 
 # Results:
+![Alt text](crafter_score.png)
+
+
 The Rewards over training for our agent are shown above
 As can be seen in the figure the variance of the rewards in an episode is extremely high.
 To combat this high variance the Crafter Docs recommend evaluating agents based upon their
