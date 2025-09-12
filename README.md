@@ -47,7 +47,7 @@ sampled the full rollout 5 times to perform gradient updates.
 # Results:
 ![Alt text](crafter_score.jpg)
 ![Alt text](rewards.jpg)
-![Alt text](success_rates.jpg)
+![Alt text](succes_rates.jpg)
 
 
 The Rewards over training for our agent are shown above
