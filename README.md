@@ -45,7 +45,7 @@ rollout of 100 episodes with a max episode length of 1024 frames. The model then
 sampled the full rollout 5 times to perform gradient updates.
 
 # Results:
-![Alt text](crafter_score.png)
+![Alt text](crafter_score.jpg)
 
 
 The Rewards over training for our agent are shown above
