@@ -1,5 +1,8 @@
 
 # Crafter
+[![Watch the video of final run](https://youtube.com/shorts/C4QQ6RPCNrI?feature=share)](https://youtube.com/shorts/C4QQ6RPCNrI?feature=share)
+
+
 # Abstract:
 Reinforcement Learning (RL) has shown great aptitude at learning on a diverse number
 of control tasks, notably Atari video games.. However, these tasks are mainly determined by in
@@ -45,10 +48,6 @@ rollout of 100 episodes with a max episode length of 1024 frames. The model then
 sampled the full rollout 5 times to perform gradient updates.
 
 # Results:
-![Alt text](crafter_score.jpg)
-![Alt text](rewards.jpg)
-![Alt text](succes_rates.jpg)
-
 
 The Rewards over training for our agent are shown above
 As can be seen in the figure the variance of the rewards in an episode is extremely high.
@@ -65,3 +64,8 @@ While our agent showed aptitude at a variety of achievements, it lacks contextua
 awareness beyond the current screen. Implementing memory for the agent to allow better plan
 and remember states would solve this issue. Finally vectorizing our environments to allow for
 faster training on a number of GPU’s would allow our agent to progress and learn faster
+
+# Figures:
+![Alt text](crafter_score.jpg)
+![Alt text](rewards.jpg)
+![Alt text](succes_rates.jpg)
