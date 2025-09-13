@@ -74,9 +74,13 @@ faster training on a number of GPU’s would allow for faster iteration and expe
 
 ## Videos
 ### Early Run Video
+Note that the model has learned to accomplish basic achievements such as sleeping during the night, and planting sapplings and chopping wood. Long term goals like crafting a pickaxe and making a furnace have not been achieved and the model is often aimless and wanders in circles.
+
 https://github.com/user-attachments/assets/262fa606-b9de-44f2-bbed-c00563be9af2
 
 ### Final Run Video
+The model has now learned to be less aimless and achieve basic tasks quickly. In addition it has learned to craft pickaxes, mine stone, and create furnaces. It also has started exhibiting emergent behavior such as placing blocks in order to protect itself from a skeleton shooting it
+
 https://github.com/user-attachments/assets/1916b8b0-54d0-4d15-9286-0c5fb2905ef7
 
 # Figures:
