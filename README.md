@@ -1,6 +1,8 @@
 
 # Crafter
-[![Watch the video of final run](https://youtube.com/shorts/C4QQ6RPCNrI?feature=share)](https://youtube.com/shorts/C4QQ6RPCNrI?feature=share)
+
+https://github.com/user-attachments/assets/1916b8b0-54d0-4d15-9286-0c5fb2905ef7
+
 
 
 # Abstract:
