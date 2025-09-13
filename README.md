@@ -1,6 +1,10 @@
 
 # Crafter
 
+## Early Run Video
+https://github.com/user-attachments/assets/262fa606-b9de-44f2-bbed-c00563be9af2
+
+## Final Run Video
 https://github.com/user-attachments/assets/1916b8b0-54d0-4d15-9286-0c5fb2905ef7
 
 
